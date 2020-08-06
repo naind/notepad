@@ -1,3 +1,3 @@
 # notepad
 
-![2020-08-06](https://user-images.githubusercontent.com/42165170/89524749-1456b000-d820-11ea-80b3-9eed54c36159.png)
+퀵 슬롯을 생성하여 바로 해당 메모장에 접근할 수 있도록 만들어 보았습니다.
